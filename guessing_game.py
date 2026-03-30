@@ -1,3 +1,6 @@
+# 🎮 Python Number Guessing Game
+# Author: Jon
+# Description: Simple game to practice logic and user input in Python
 
 import random
 
