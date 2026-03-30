@@ -1,4 +1,4 @@
-# simple-game-with-python
+# guessing-game-with-python
 
 import random
 
